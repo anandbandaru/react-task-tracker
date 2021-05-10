@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+//https://github.com/bradtraversy/react-crash-2021/blob/master/src/components/About.js
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
